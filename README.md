@@ -21,8 +21,8 @@ Demo Modes
 
 
 # Hopes to Add
-More versions of Pong/
-Maybe different games (Air Hockey, Pool)/
-Fix all the bugs/
-More accurate ball movements/
-Better Scoreboards/
+More versions of Pong\
+Maybe different games (Air Hockey, Pool)\
+Fix all the bugs\
+More accurate ball movements\
+Better Scoreboards\
